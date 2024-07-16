@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Irtiza Ahsan Abir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e220312fa9d2fc06c614f678b1e628bd867d9f5780bcac14afc2dbe0494f9132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirxd&label=Profile%20views&color=0e75b6&style=flat" alt="abirxd" /> </p>
